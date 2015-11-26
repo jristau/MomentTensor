@@ -1,0 +1,9 @@
+NorthIsland	#velocity_model
+DIST		#distance_file
+10		#minimum_distance
+1050		#maximum_distance
+5		#distance_increment
+5		#minimum_depth
+5		#maximum_depth
+1		#depth_increment
+D		#type_D_displacement_V_velocity
